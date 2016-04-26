@@ -1,0 +1,34 @@
+PODS:
+  - ASIHTTPRequest (1.8.2):
+    - ASIHTTPRequest/ASIWebPageRequest (= 1.8.2)
+    - ASIHTTPRequest/CloudFiles (= 1.8.2)
+    - ASIHTTPRequest/Core (= 1.8.2)
+    - ASIHTTPRequest/S3 (= 1.8.2)
+  - ASIHTTPRequest/ASIWebPageRequest (1.8.2):
+    - ASIHTTPRequest/Core
+  - ASIHTTPRequest/CloudFiles (1.8.2):
+    - ASIHTTPRequest/Core
+  - ASIHTTPRequest/Core (1.8.2):
+    - Reachability
+  - ASIHTTPRequest/S3 (1.8.2):
+    - ASIHTTPRequest/Core
+  - Kiwi (2.4.0)
+  - Reachability (3.2)
+  - Test (0.1.0):
+    - ASIHTTPRequest
+
+DEPENDENCIES:
+  - Kiwi
+  - Test (from `../`)
+
+EXTERNAL SOURCES:
+  Test:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ASIHTTPRequest: ec013992946676b7978dcbde6396d57312d21db4
+  Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  Test: 26406c8a956952bbd6658466e5db480762ad3c0c
+
+COCOAPODS: 0.39.0

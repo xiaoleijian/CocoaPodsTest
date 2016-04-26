@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Test_Example', :exclusive => true do
+  pod 'Test', :path => '../'
+end
+
+target 'Test_Tests', :exclusive => true do
+  pod 'Test', :path => '../'
+
+  pod 'Kiwi'
+end

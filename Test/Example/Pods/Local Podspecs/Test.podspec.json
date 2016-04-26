@@ -1,0 +1,30 @@
+{
+  "name": "Test",
+  "version": "0.1.0",
+  "summary": "A short description of Test.",
+  "description": "An optional longer description of BZLib\n\n* Markdown format.\n* Don't worry about the indent, we strip it!",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/BZLib",
+  "license": "MIT",
+  "authors": {
+    "brycezhang": "brycezhang.cn@gmail.com"
+  },
+  "source": {
+    "git": "http://git.uzai.com/leijian/Test.git"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "requires_arc": true,
+  "source_files": "Test/Classes/PrintTest.{h,m}",
+  "frameworks": [
+    "MobileCoreServices",
+    "CFNetwork",
+    "CoreGraphics"
+  ],
+  "libraries": "z.1",
+  "dependencies": {
+    "ASIHTTPRequest": [
+
+    ]
+  }
+}
