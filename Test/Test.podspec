@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "Test"
-  s.version          = "0.4.0"
+  s.version          = "0.3.0"
   s.summary          = "Just Testing."
   s.description      = <<-DESC
                        An optional longer description of BZLib
@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/xiaoleijian/CocoaPodsTest"
   s.license          = 'MIT'
   s.author           = { "lejian" => "leijian_ios@163.com" }
-  s.source           = { :git => "https://github.com/xiaoleijian/CocoaPodsTest.git", :tag => "0.4.0"}
+  s.source           = { :git => "https://github.com/xiaoleijian/CocoaPodsTest.git", :tag => "0.3.0"}
   # s.social_media_url = 'https://github.com/xiaoleijian'
 
   s.platform     = :ios, '6.0'
