@@ -12,8 +12,8 @@ Pod::Spec.new do |s|
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "brycezhang" => "brycezhang.cn@gmail.com" }
-  s.source           = { :git => "http://git.uzai.com/leijian/Test.git", :tag => "0.3.0"}
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source           = { :git => "https://github.com/xiaoleijian/CocoaPodsTest.git", :tag => "0.3.0"}
+  # s.social_media_url = 'https://github.com/xiaoleijian'
 
   s.platform     = :ios, '6.0'
   s.requires_arc = true
