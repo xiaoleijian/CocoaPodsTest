@@ -21,4 +21,5 @@ Pod::Spec.new do |s|
   #s.libraries  = 'z.1'
   #s.dependency 'ASIHTTPRequest'
   #hotfix_loginBug
+  #定制游
 end
