@@ -20,4 +20,5 @@ Pod::Spec.new do |s|
   #s.frameworks = 'MobileCoreServices', 'CFNetwork', 'CoreGraphics'
   #s.libraries  = 'z.1'
   #s.dependency 'ASIHTTPRequest'
+  #hotfix_loginBug
 end
