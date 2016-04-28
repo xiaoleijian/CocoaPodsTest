@@ -24,4 +24,5 @@ Pod::Spec.new do |s|
   #定制游 release
   #登录
   #login release
+  #hotfix_logon
 end
