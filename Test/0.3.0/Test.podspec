@@ -25,4 +25,5 @@ Pod::Spec.new do |s|
   #登录
   #login release
   #要出发 leijian wp
+  #注册
 end
