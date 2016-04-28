@@ -26,4 +26,5 @@ Pod::Spec.new do |s|
   #login release
   #要出发 leijian wp
   #注册
+  #hotfix_logon
 end
