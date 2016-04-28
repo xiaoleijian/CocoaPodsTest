@@ -22,4 +22,5 @@ Pod::Spec.new do |s|
   #s.dependency 'ASIHTTPRequest'
   #hotfix_loginBug
   #定制游 release
+  #登录
 end
