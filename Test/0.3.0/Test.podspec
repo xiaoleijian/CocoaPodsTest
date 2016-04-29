@@ -27,4 +27,5 @@ Pod::Spec.new do |s|
   #要出发 leijian wp
   #注册
   #hotfix_logon
+  #私家团
 end
