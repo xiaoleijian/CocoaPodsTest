@@ -28,4 +28,5 @@ Pod::Spec.new do |s|
   #注册
   #hotfix_logon
   #私家团
+　#f_广点通
 end
